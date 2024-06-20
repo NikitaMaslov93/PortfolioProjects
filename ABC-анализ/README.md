@@ -8,19 +8,3 @@
 2. [Код для проведения многомерного ABC-анализа с помощью Pandas](https://github.com/andron23/abc/blob/master/abc.py)
 3. [График распределения порошков по группам ABC](https://github.com/andron23/abc/blob/master/treemap.png)
 4. [Бизнес-выводы и рекомендации](https://github.com/andron23/abc/blob/master/insights.md)
-
-# Запуск скрипта
-
-```bash
-# Создаем виртуальное окружение
-python -m venv venv
-
-# Активируем виртуальное окружение
-./venv/scripts/activate # source venv/bin/activate для Linux
-
-# Устанавливаем зависимости
-pip install -r requirements.txt
-
-# Запускаем скрипт
-python abc.py
-```
