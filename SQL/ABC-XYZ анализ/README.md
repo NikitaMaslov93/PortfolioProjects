@@ -6,5 +6,6 @@
 
 1. [Исходные данные](https://github.com/NikitaMaslov93/PortfolioProjects/edit/main/SQL/ABC-XYZ%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7/5_query_full_sql.sql) (`.sql`)
 2. [Запрос в базу данных Postgres для проведения ABC-XYZ анализа](https://github.com/NikitaMaslov93/PortfolioProjects/edit/main/SQL/ABC-XYZ%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7/5_query_full_sql.sql)
-3. [Бизнес-выводы и рекомендации](https://github.com/NikitaMaslov93/PortfolioProjects/edit/main/SQL/ABC-XYZ%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7/5_query_full_sql.sql)
-4. [Результат запроса SQL](https://github.com/NikitaMaslov93/PortfolioProjects/edit/main/SQL/ABC-XYZ%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7/image.png)
+3. [Результат запроса SQL](https://github.com/NikitaMaslov93/PortfolioProjects/edit/main/SQL/ABC-XYZ%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7/image.png)
+4. [Бизнес-выводы и рекомендации](https://github.com/NikitaMaslov93/PortfolioProjects/edit/main/SQL/ABC-XYZ%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7/5_query_full_sql.sql)
+
