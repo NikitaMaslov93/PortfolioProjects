@@ -9,8 +9,8 @@
 
 В рамках данной работы был проведен когортный анализ. В этот репозиторий для ознакомления я включил:
 
-1. [Исходные данные](https://github.com/NikitaMaslov93/PortfolioProjects/blob/main/SQL/%D0%9A%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20LTV/Cohort.sql) (`.sql`)
-2. [Запрос в базу данных Postgres для проведения ABC-XYZ анализа](https://github.com/NikitaMaslov93/PortfolioProjects/edit/main/SQL/ABC-XYZ%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7/check_full.sql)
+1. [Исходные данные](https://github.com/NikitaMaslov93/PortfolioProjects/blob/main/SQL/%D0%9A%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20LTV/check_full.sql) (`.sql`)
+2. [Запрос в базу данных Postgres для проведения когортного анализа](https://github.com/NikitaMaslov93/PortfolioProjects/blob/main/SQL/%D0%9A%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20LTV/Cohort.sql)
 3. [Результат запроса SQL](https://github.com/NikitaMaslov93/PortfolioProjects/blob/main/SQL/%D0%9A%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20LTV/Cohort.PNG)
 4. [Бизнес-выводы и рекомендации](https://github.com/NikitaMaslov93/PortfolioProjects/blob/main/SQL/%D0%9A%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20LTV/insights.md)
 
