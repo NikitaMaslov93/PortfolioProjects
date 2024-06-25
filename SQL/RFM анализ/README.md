@@ -11,6 +11,6 @@
 
 1. [Исходные данные](https://github.com/NikitaMaslov93/PortfolioProjects/tree/main/SQL/RFM%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7/checks.sql) (`.sql`)
 2. [Запрос в базу данных Postgres для проведения RFM-анализа](https://github.com/NikitaMaslov93/PortfolioProjects/tree/main/SQL/RFM%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7/query.sql)
-3. [Результат запроса SQL](https://github.com/NikitaMaslov93/PortfolioProjects/tree/main/SQL/RFM%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7/check_full.sql/queries_results.PNG)
-4. [Бизнес-выводы и рекомендации](https://github.com/NikitaMaslov93/PortfolioProjects/tree/main/SQL/RFM%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7/check_full.sql/insights.md)
+3. [Результат запроса SQL](https://github.com/NikitaMaslov93/PortfolioProjects/tree/main/SQL/RFM%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7/queries_results.PNG)
+4. [Бизнес-выводы и рекомендации](https://github.com/NikitaMaslov93/PortfolioProjects/tree/main/SQL/RFM%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7/insights.md)
 
