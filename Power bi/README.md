@@ -32,3 +32,4 @@
 #### Выводы
 
 1. [Общие бизнес-выводы и рекомендации](https://github.com/NikitaMaslov93/PortfolioProjects/edit/main/Power%20bi/insights.md)
+[a](https://app.powerbi.com/reportEmbed?reportId=79ba5b2a-daff-45db-9b2c-71572fa15d08&autoAuth=true&ctid=4793a96a-067a-42a8-99dd-e7a7b4964038)
